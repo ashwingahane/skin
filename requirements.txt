@@ -1,4 +1,4 @@
-
+opencv-python
 streamlit-option-menu
 streamlit-lottie
 folium
