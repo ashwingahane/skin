@@ -1,6 +1,7 @@
 opencv-python-headless
 opencv-python
 streamlit-option-menu
+sklearn 
 streamlit-lottie
 folium
 fpdf
