@@ -13,7 +13,7 @@ markdown
 matplotlib
 ml-dtypes
 numpy
-opencv-python
+opencv-python-headless
 pandas
 pillow
 protobuf
