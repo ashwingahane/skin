@@ -1,4 +1,6 @@
 
+streamlit-option-menu
+streamlit-lottie\
 folium
 fpdf
 geocoder
@@ -26,5 +28,4 @@ seaborn
 streamlit
 tensorflow
 uvicorn
-streamlit-option-menu
-streamlit-lottie
+
